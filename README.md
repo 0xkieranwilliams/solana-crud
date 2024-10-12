@@ -94,3 +94,4 @@ Build the web app
 ```shell
 pnpm build
 ```
+# solana-crud
